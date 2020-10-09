@@ -1,2 +1,2 @@
 # Machine-Learning-using-python
-Implementing data modelling
+This repository contains all the machine learning related projects and codes.
